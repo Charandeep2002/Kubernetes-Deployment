@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: python-app
-        image: Charandeep2002/application:v1
+        image: application:v1
         ports:
         - containerPort: 80
